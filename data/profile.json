@@ -14,13 +14,19 @@
       {
         "name": "Java",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
       }
     ],
     "softSkills": [
       "Empatia",
+      "Comprometimento",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
+      
     ]
   },
   "languages": [
@@ -36,7 +42,7 @@
   ],
   "professionalExperience": [
     {
-      "name": "Técnico Eletrônico I / Diebold",
+      "name": "Técnico Eletrônico I / Diebold Nixdorf",
       "period": "2013 - até o momento",
       "description": "Atividades de manuteção corretiva, suporte e análise de logs de Atm em ferremanteas Fligth Record."
     },
